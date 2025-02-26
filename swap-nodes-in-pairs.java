@@ -17,12 +17,10 @@ class Solution {
         while(temp.next!=null && temp.next.next!=null){
             ListNode prev = temp.next;
             ListNode curr = temp.next.next;
+            temp.next = curr;
             prev.next = curr.next;
             curr.next = prev;
-
-            temp.next = curr;
             temp = prev;
-
         }
         return dummy.next;
     }
