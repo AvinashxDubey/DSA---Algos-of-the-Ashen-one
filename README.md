@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
+| [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | ------- |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
+| [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +58,10 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
 
 ---
