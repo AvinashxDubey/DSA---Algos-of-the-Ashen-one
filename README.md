@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
@@ -76,6 +77,10 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
 
 ---
