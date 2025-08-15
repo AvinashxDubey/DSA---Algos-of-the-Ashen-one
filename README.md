@@ -24,6 +24,7 @@
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
+| [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,18 @@
 | ------- |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
 
 ---
