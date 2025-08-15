@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -30,6 +31,14 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
 ---
