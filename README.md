@@ -18,6 +18,18 @@
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 
 ---
