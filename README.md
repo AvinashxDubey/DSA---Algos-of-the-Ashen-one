@@ -62,6 +62,14 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
 
 ---
