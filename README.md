@@ -1,5 +1,8 @@
-# DSA---Algos-of-the-ashen-one
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# DSA - Algorithms of the Ashen One
+In the void where logic and madness entwine,
+The Ashen One enters the Arena of Algorithms.
+Each problem - a relentless foe, each test case - a killing blow.
+Only through wit, will, and countless deaths will the Flame be rekindled.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
