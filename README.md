@@ -10,6 +10,8 @@
   </p>
 </div>
 
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
@@ -17,8 +19,11 @@
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
-<br>
+
+---
+
 <div>
+  <h3>Stay safe! Don't you dare go hollow.</h3>
   <p align="left">
     <img src="https://media1.tenor.com/m/_Ty5Q5UrjdMAAAAC/dark-souls-dance.gif" alt="Ashen One contemplates the abyss" width="400"> 
   </p>
