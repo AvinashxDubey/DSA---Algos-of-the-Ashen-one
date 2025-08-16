@@ -46,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -95,6 +97,10 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 
 ---
