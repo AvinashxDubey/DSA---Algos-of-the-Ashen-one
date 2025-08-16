@@ -48,6 +48,7 @@
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
@@ -90,6 +92,7 @@
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
