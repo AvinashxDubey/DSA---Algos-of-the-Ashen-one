@@ -11,7 +11,7 @@
  */
 
  /**
-    cycle detection is an example of 
+    cycle detection is an example of floyd' cycle detection algo
   */
 public class Solution {
     public boolean hasCycle(ListNode head) {
