@@ -33,6 +33,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+| [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 ## Stack
 |  |
 | ------- |
