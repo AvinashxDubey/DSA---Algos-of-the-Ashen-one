@@ -36,6 +36,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
@@ -122,10 +123,12 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -134,6 +137,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
 
