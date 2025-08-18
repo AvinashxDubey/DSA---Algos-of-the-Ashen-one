@@ -19,6 +19,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 ## Stack
 |  |
@@ -109,6 +111,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +156,10 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
 
 ---
