@@ -14,6 +14,16 @@
  * }
  */
 class Solution {
+    /**
+        levelOrder traversal is just bfs
+        it can be done using queue
+        start by adding root to the res list and queue
+        then iterate over the queue until its empty
+        each time run a for loop inside for queue.size()
+        which traverses for one level at a time
+        add left and right nodes to queue and a list
+        if list is not empty add it to res list
+     */
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
         if (root == null)
