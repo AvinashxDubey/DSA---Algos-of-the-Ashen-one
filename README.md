@@ -36,6 +36,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
