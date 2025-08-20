@@ -1,20 +1,10 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a,b) -> (b[0]*b[0] + b[1]*b[1]) - (a[0]*a[0]+a[1]*a[1]));
-        for(int[] point : points){
-            
-            maxHeap.offer(point);
+        Arrays.sort(points, (p1, p2) -> Double.compare((Math.pow(p1[0], 2) + Math.pow(p1[1], 2)), (Math.pow(p2[0], 2) + Math.pow(p2[1], 2))));
+        int[][] ans = new int[k][2];
 
-            if(maxHeap.size()>k){
-                maxHeap.poll();
-            }
-        }
-
-        int[][] ans = new int[maxHeap.size()][2];
-        int i=0;
-        while(!maxHeap.isEmpty()){
-            ans[i] = maxHeap.poll();
-            i++;
+        for(int i=0; i<k; i++){
+            ans[i] = points[i];
         }
 
         return ans;
