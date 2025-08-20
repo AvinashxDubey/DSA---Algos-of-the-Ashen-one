@@ -35,6 +35,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -75,6 +76,7 @@
 | [0056-merge-intervals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
@@ -168,14 +171,21 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
 
 ---
