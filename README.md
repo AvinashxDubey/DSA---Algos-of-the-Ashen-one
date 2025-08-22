@@ -98,6 +98,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
