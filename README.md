@@ -37,6 +37,7 @@
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
+| [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -68,6 +69,7 @@
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0908-middle-of-the-linked-list) |
+| [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,10 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
 
 ---
