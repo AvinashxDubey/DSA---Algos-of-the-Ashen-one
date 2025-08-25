@@ -35,6 +35,7 @@
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
+| [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
@@ -96,6 +97,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
@@ -198,6 +200,10 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
 
 ---
