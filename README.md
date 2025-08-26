@@ -45,6 +45,7 @@
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Stack
 |  |
 | ------- |
