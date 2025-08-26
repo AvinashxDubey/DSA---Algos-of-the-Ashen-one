@@ -159,6 +159,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 ## Quickselect
@@ -221,6 +224,18 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
 
 ---
