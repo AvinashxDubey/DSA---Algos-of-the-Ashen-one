@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0735-asteroid-collision) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -57,6 +58,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 ## Math
