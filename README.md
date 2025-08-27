@@ -45,6 +45,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Stack
@@ -90,6 +91,7 @@
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0560-subarray-sum-equals-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -192,6 +196,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Divide and Conquer
 |  |
 | ------- |
