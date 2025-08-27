@@ -2,9 +2,10 @@ class Solution {
     /**
         Simple enough
         create a map to track occurences of elements
-        then create a pq storing key pairs of map based on least frequency
-        iterate over the pq and remove elements with freq less than or equal to k-alreadyRemoved
-        when freq becomes greater than that we get outta the loop
+        then create a minHeap storing the freqs
+        iterate over the pq and freq less than or equal to k-removed
+        and adding that freq into removed
+        when freq becomes greater than k-removed we get outta the loop
         and return the size of the pq
      */
     public int findLeastNumOfUniqueInts(int[] arr, int k) {
@@ -14,17 +15,11 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0)+1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>((a, b) -> a.getValue() - b.getValue());
-        minHeap.addAll(map.entrySet());
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        minHeap.addAll(map.values());
         
-        while(!minHeap.isEmpty()){
-            if(minHeap.peek().getValue()<=k-removed){
-                removed+=minHeap.peek().getValue();
-                minHeap.poll();
-            }
-            else{
-                break;
-            }
+        while(!minHeap.isEmpty() && minHeap.peek()<=k-removed){
+            removed+=minHeap.poll();
         }
         return minHeap.size();
     }
