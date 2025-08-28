@@ -15,8 +15,9 @@ class Solution {
         int n = grid.length;
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
-                map.putIfAbsent(i-j, new ArrayList<>());
-                map.get(i-j).add(grid[i][j]);
+                int diag = i-j;
+                map.putIfAbsent(diag, new ArrayList<>());
+                map.get(diag).add(grid[i][j]);
             }
         }
 
@@ -38,7 +39,7 @@ class Solution {
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
                 int diag = i-j;
-                List<Integer> ls = map.get(i-j);
+                List<Integer> ls = map.get(diag);
                 grid[i][j] = ls.remove(ls.size()-1);
             }
         }
