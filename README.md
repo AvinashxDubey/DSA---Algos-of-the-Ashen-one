@@ -172,6 +172,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -180,6 +181,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
