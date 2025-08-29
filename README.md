@@ -48,6 +48,7 @@
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
@@ -95,6 +96,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
