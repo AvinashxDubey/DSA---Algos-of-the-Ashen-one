@@ -130,6 +130,7 @@
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -141,6 +142,7 @@
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Line Sweep
 |  |
 | ------- |
@@ -263,6 +266,10 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
 
 ---
