@@ -29,6 +29,7 @@
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
@@ -242,6 +244,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bucket Sort
