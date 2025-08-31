@@ -10,8 +10,8 @@ class Solution {
                     for (char ch = '1'; ch <= '9'; ch++) {
                         if (isValid(board, i, j, ch)) {
                             board[i][j] = ch;
-                            if (solve(board))
-                                return true;
+                            if (solve(board)) return true;
+                            // backtrack
                             board[i][j] = '.';
                         }
                     }
