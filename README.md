@@ -38,6 +38,7 @@
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
 ## Greedy
