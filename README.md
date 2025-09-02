@@ -39,6 +39,7 @@
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Line Sweep
 |  |
