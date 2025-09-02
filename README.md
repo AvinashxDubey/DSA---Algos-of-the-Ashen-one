@@ -33,6 +33,7 @@
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
@@ -233,6 +234,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
@@ -257,6 +259,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Line Sweep
