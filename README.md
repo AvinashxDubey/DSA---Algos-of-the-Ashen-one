@@ -25,6 +25,7 @@
 | [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Array
 |  |
@@ -174,6 +175,7 @@
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
@@ -216,6 +218,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
