@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -81,6 +82,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0143-reorder-list) |
