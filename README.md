@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
@@ -195,6 +196,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
