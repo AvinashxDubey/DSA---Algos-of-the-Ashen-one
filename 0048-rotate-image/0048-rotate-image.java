@@ -2,7 +2,7 @@ class Solution {
     public void rotate(int[][] matrix) {
         // reverse the rows
         int t = 0, b=matrix.length-1;
-        while(t<=b){
+        while(t<b){
             int[] temp = matrix[t];
             matrix[t] = matrix[b];
             matrix[b] = temp;
