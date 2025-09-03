@@ -31,6 +31,7 @@
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0048-rotate-image) |
@@ -127,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
