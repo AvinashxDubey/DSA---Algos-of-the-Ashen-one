@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -338,6 +339,10 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
 
 ---
