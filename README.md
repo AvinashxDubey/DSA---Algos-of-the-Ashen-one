@@ -86,6 +86,7 @@
 | [0143-reorder-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
@@ -322,6 +323,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -351,6 +353,10 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
 
 ---
