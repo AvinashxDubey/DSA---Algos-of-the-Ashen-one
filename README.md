@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
@@ -120,6 +121,7 @@
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
@@ -194,6 +196,7 @@
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
