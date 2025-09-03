@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
@@ -167,6 +168,7 @@
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bucket Sort
