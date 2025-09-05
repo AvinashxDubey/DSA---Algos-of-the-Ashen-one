@@ -185,6 +185,7 @@
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
