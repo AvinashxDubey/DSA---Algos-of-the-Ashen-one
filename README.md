@@ -77,6 +77,7 @@
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
@@ -100,6 +101,7 @@
 | [0739-daily-temperatures](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
