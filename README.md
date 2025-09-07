@@ -74,6 +74,7 @@
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1580-shuffle-the-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -194,6 +195,7 @@
 | [0492-construct-the-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
