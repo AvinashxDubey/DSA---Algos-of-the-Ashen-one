@@ -48,6 +48,7 @@
 | [0056-merge-intervals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
@@ -343,6 +345,7 @@
 | [0048-rotate-image](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bucket Sort
