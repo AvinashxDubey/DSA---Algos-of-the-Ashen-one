@@ -85,6 +85,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -108,6 +109,7 @@
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3830-find-closest-person) |
@@ -400,6 +403,10 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
 
 ---
