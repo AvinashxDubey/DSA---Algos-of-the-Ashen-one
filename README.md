@@ -31,6 +31,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -246,6 +248,7 @@
 | [1006-vowel-spellchecker](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +328,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -370,6 +374,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -407,6 +412,10 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
 
 ---
