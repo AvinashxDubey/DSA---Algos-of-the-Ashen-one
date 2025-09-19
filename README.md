@@ -27,6 +27,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
+| [0952-word-subsets](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
@@ -76,6 +77,7 @@
 | [0739-daily-temperatures](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
+| [0952-word-subsets](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
@@ -246,6 +248,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
