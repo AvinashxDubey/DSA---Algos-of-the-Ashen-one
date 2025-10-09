@@ -3,11 +3,11 @@ class Solution {
         int m = s.length(), n =t.length();
         int count = 0;
         for(char ch : s.toCharArray()){
-            count-=(int)ch;
+            count^=(int)ch;
         }
 
         for(char ch : t.toCharArray()){
-            count+=(int)ch;
+            count^=(int)ch;
         }
         return (char)count;
     }
