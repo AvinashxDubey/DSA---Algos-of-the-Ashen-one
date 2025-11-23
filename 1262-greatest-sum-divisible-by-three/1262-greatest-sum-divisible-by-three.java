@@ -13,11 +13,13 @@ class Solution {
             if(rem==0) return 0;
             return Integer.MIN_VALUE;
         }
+
+        if(dp[idx][rem]!=null) return dp[idx][rem];
         
         int pick = nums[idx] + solve(nums, idx+1, (nums[idx]+rem)%3, dp);
 
         int notPick = solve(nums, idx+1, rem, dp);
 
-        return Math.max(pick, notPick);
+        return dp[idx][rem] = Math.max(pick, notPick);
     }
 }
