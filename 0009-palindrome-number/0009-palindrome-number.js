@@ -9,7 +9,6 @@ var isPalindrome = function(x) {
     while(num>0){
         let rem = num % 10;
         sum = sum*10 + rem;
-        console.log(sum);
         num = Math.floor(num/10);
     }
     return sum===x;
