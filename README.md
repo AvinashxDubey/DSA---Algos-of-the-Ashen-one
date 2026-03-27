@@ -15,8 +15,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0020-valid-parentheses) |
@@ -34,8 +34,8 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
@@ -95,12 +95,13 @@
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
@@ -119,16 +120,16 @@
 | [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
@@ -148,8 +149,8 @@
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0018-4sum) |
@@ -169,8 +170,8 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2836-neither-minimum-nor-maximum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0074-search-a-2d-matrix) |
@@ -180,30 +181,31 @@
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0792-binary-search) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0713-subarray-product-less-than-k) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0066-plus-one) |
@@ -220,11 +222,12 @@
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3830-find-closest-person) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
@@ -232,8 +235,8 @@
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
@@ -259,21 +262,21 @@
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0342-power-of-four) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1448-maximum-69-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2032-largest-odd-number-in-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0142-linked-list-cycle-ii) |
@@ -282,8 +285,8 @@
 | [0234-palindrome-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
@@ -292,21 +295,21 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0144-binary-tree-preorder-traversal) |
@@ -315,8 +318,8 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
@@ -324,15 +327,15 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0658-find-k-closest-elements) |
@@ -341,17 +344,17 @@
 | [1184-car-pooling](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1184-car-pooling) |
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0118-pascals-triangle) |
@@ -360,12 +363,12 @@
 | [0943-sum-of-subarray-minimums](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Line Sweep
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1028-interval-list-intersections](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1028-interval-list-intersections) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0048-rotate-image) |
@@ -373,61 +376,62 @@
 | [0073-set-matrix-zeroes](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0498-diagonal-traverse) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3748-sort-matrix-by-diagonals](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0451-sort-characters-by-frequency) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/1013-fibonacci-number) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0078-subsets) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0014-longest-common-prefix) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0128-longest-consecutive-sequence) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0812-rotate-string) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/0232-implement-queue-using-stacks) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2429-design-a-food-rating-system](https://github.com/AvinashxDubey/DSA---Algos-of-the-Ashen-one/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
 
